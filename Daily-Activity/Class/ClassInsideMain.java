@@ -1,5 +1,5 @@
 // WAP to check the class inside the main method
-
+package executor;
 class TestOutside {
     int rollno = 39;
     String name = "Aditya";
