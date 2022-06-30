@@ -12,3 +12,6 @@
 <br>-- Rest of the days Rs 200 per day
 <br>-- void display ( ) to display the details in the following format:
 <br>-- Bike No. PhoneNo. No. of days Charges
+
+## Reverse of Integer
+- Java program to reverse a number using while loop and recursion
