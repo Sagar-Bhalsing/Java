@@ -1,3 +1,6 @@
+## AreaOfRectangle
+- Java program to calculate the area of rectangle by initialising the data members inside the method
+
 ## Bike
 - Define a class called Bike with the following description:Instance variables/data members:
 - String bikeno  to store the bike’s number(MH65AB1234)
