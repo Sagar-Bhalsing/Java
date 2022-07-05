@@ -17,7 +17,7 @@ class My implements Myinterface{//child class of interface
 }
 public class Interface {
 	public static void main(String[] args) {
-		Myinterface m=new My();//objection creation for interfaces is given like "interfacename obj=new childclass"
+		Myinterface m=new My();//objection creation 
 		m.disp();//Method
 		m.show();//Method
 	}
