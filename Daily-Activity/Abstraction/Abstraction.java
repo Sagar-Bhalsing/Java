@@ -21,6 +21,6 @@ public class Abstraction {
 	{
 		Childclass c=new Childclass();//Object creation
 		c.disp();//This method is abstract method of abstract class which has been declared in child class
-		c.show();//This is method is inherited by child class from abstract class
+		c.show();//This method is inherited by child class from abstract class
 	}
 }
