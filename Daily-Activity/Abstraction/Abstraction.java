@@ -9,7 +9,7 @@ abstract class TestAbstract//Abstract class
 	}
 }
 class Childclass extends TestAbstract{//Child class of abstract class
-	
+	    //Override show() Method
 		public void disp()//The undeclared method of abstract is been declared in this child class
 		{
 			System.out.println("Override method ");
