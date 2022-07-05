@@ -18,6 +18,6 @@ public class Interface2 {
 	public static void main(String[] args) {
 		Interfacetest i=new Interfacetest();//Object creation
 		i.disp();//Method call
-		i.show();//Methid call
+		i.show();//Method call
 	}
 }
