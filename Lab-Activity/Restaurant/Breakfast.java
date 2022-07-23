@@ -50,7 +50,7 @@ void bill() {
 	System.out.println("Total Bill--"+sum+"Rs");
 	System.out.println("");
 	System.out.println("                   ~~THANK YOU~~");
-	System.out.println("               ~~PLEASE COEM AGAIN~~");
+	System.out.println("               ~~PLEASE COME AGAIN~~");
 }
 
 
