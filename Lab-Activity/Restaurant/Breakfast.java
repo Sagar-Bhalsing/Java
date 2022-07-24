@@ -42,7 +42,7 @@ void order() {
 //Method to display total bill of ordered dishes
 void bill() {
 	for(int i=0;i<arrayx.length;i++) {
-		if (arrayx[i]-1<0 | arrayy[i]-1<0) {//Here sometimes our array index goes to -1 so to handle that condition this of statement is used
+		if (arrayx[i]-1<0 | arrayy[i]-1<0) {//Here sometimes our array index goes to -1 so to handle that condition this if statement is used
 			break;
 		}
 		else {//Display dishes and their quantity
